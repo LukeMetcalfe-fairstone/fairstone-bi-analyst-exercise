@@ -32,7 +32,7 @@ Submit three files:
 
 1. **solution.pdf** – 1‑page overview with 3–4 visuals  
 2. **assumptions.pdf** (or `.md`) – ≤1 page describing KPI definitions, assumptions, data issues, fixes, and *“If I had more time…”*  
-3. **queries.sql** (or `.txt`) – Up to 3 SQL/DAX/Tableau LOD snippets
+3. **queries.sql** (or `.txt`) – Up to 3 SQL/DAX/Tableau snippets
 
 Place these in the `/submission` folder.
 
@@ -50,10 +50,10 @@ Click **Use this template → Create a new repository**
 
 ### 3. Add us as collaborators
 Go to: **Settings → Collaborators → Add people**  
-Add: **<YOUR_GITHUB_USERNAME>**
+Add: **LukeMetcalfe-fairstone**
 
-### 4. Email us your repo link
-Send to: **recruitment@fairstone.co.uk**  
+### 4. Email me/recruiter your repo link
+
 Subject: *BI Analyst Take‑Home – <Your Name>*
 
 ---
@@ -66,7 +66,7 @@ Email these files instead:
 - `assumptions.pdf`
 - `queries.sql`
 
-To: **recruitment@fairstone.co.uk**  
+Email me/recruiter
 Subject: *BI Analyst Take‑Home – <Your Name>*
 
 ---
