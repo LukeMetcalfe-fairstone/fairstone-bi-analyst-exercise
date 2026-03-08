@@ -10,8 +10,11 @@ Please **time‑box your work to ~60 minutes**.
 
 ## 📂 Contents
 /data        → Flat CSV exports
+
 /docs        → Full exercise brief (MD, DOCX, TXT)
+
 /marking     → Internal scoring materials
+
 /submission  → Place your completed files here
 
 ---
